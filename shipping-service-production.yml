@@ -1,0 +1,4 @@
+app:
+  messages:
+    welcome: Hi, Welcome to Shipping Microservices!!! (production)
+    
